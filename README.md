@@ -1,1 +1,3 @@
-# Chrome_extensions_helloworld
+# Chrome Extensions: Hello World
+
+https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
